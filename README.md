@@ -14,6 +14,14 @@ Make City as dropdown and set what value you want
 6. Change the options variable to what you want
 7. Done
 
+# Reference
+
+https://docs.woocommerce.com/document/tutorial-customising-checkout-fields-using-actions-and-filters/
+
+# Build for Kenikir Home Food Penang
+
+http://www.kenikirhomefood.com
+
 # Donate
 
 www.wanzul.net/donate
